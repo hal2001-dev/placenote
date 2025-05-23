@@ -1,0 +1,4 @@
+name: placenote
+packages:
+  - apps/**
+  - packages/**

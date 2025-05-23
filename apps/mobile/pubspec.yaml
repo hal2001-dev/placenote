@@ -1,0 +1,17 @@
+name: mobile
+description: Flutter client for PlaceNote
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared:
+    path: ../../packages/shared
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
